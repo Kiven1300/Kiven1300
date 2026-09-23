@@ -1,40 +1,44 @@
 # Hi, I'm Kevin González 👋
 
-I'm a Software Development student at BYU-Idaho through BYU-Pathway Worldwide, based in Mexico City.
+I'm a Software Development student at BYU-Idaho through BYU-Pathway Worldwide, based in Mexico City, Mexico.
 
-I'm currently building my experience in web development, software testing, databases, and technical support. My professional background includes customer support, fraud prevention, financial services, and merchant support, which has helped me develop strong problem-solving, communication, and troubleshooting skills.
+I'm currently building my career in technology with a focus on web development, software testing, and technical support.
+
+My professional experience at DoorDash, Scotiabank, and American Express has also helped me develop strong problem-solving, communication, analytical, and troubleshooting skills.
 
 ## 🚀 About Me
 
 - 🎓 Studying Software Development at BYU-Idaho
-- 💻 Interested in Web Development, Software Engineering, Software Testing, and Technical Support
-- 🌐 Currently improving my JavaScript and frontend development skills
-- 🧪 Learning software testing, test cases, requirements, Jira, Squash, and QA practices
-- 🗄️ Working with relational databases and MySQL
-- 🔧 Building experience with Git, GitHub, Docker, and development workflows
+- 💻 Focused on Web Development and Software Engineering
+- 🧪 Building experience in Software Testing and QA
+- 🌐 Improving my JavaScript and frontend development skills
+- 🗄️ Working with SQL, MySQL, relational databases, and database design
+- 🔧 Learning modern development workflows using Git, GitHub, Docker, and npm
+- 🧪 Working with test cases, requirements, Jira, and Squash
 - 🤖 Interested in AI-assisted development and modern software tools
 - 📍 Mexico City, Mexico
 - 🌎 Spanish: Native | English: Advanced
 
-## 🛠️ Technologies and Tools
+## 🛠️ Skills & Technologies
 
-### Languages
+### Programming Languages
+
 - JavaScript
 - Python
 - C#
 - SQL
-- HTML
-- CSS
 
 ### Web Development
+
 - HTML5
 - CSS3
 - JavaScript
 - DOM
 - ES Modules
-- Responsive Web Development
+- Responsive Web Design
 
 ### Databases
+
 - MySQL
 - SQL
 - Database Design
@@ -42,46 +46,68 @@ I'm currently building my experience in web development, software testing, datab
 - Relational Databases
 
 ### Software Testing
+
+- Functional Testing
 - Test Cases
 - Acceptance Criteria
 - Requirements Testing
-- Functional Testing
 - Software Development Life Cycle
 - Jira
 - Squash
 
 ### Development Tools
+
 - Git
 - GitHub
-- VS Code
 - Docker
+- VS Code
 - npm
 
-## 📂 Projects
+## 🚀 Projects
 
 ### CDMX Rideshare Car Guide
-Web development project focused on helping users compare practical used vehicles for rideshare and daily use in Mexico City.
 
-Technologies:
-HTML, CSS, JavaScript, JSON, ES Modules, Local Storage
+Web development project designed to help users compare practical used vehicles for rideshare and everyday use in Mexico City.
 
-### E-commerce / Product Web Projects
-Frontend projects involving dynamic product lists, JavaScript modules, DOM manipulation, responsive design, and user interaction.
+**Technologies:** HTML, CSS, JavaScript, JSON, ES Modules, Local Storage
+
+### Frontend Development Projects
+
+Web projects involving dynamic product lists, JavaScript modules, DOM manipulation, responsive design, user interaction, and modern frontend development practices.
+
+**Technologies:** JavaScript, HTML, CSS, ES Modules, Git, GitHub
 
 ### Database Projects
-Designed relational databases using ERDs, SQL queries, joins, filtering, data manipulation, and MySQL.
+
+Designed relational databases and worked with ERDs, SQL queries, joins, filtering, data manipulation, and database relationships.
+
+**Technologies:** SQL, MySQL, ERD, Relational Databases
 
 ### Software Testing Projects
-Created software requirements, acceptance criteria, and test cases while applying software testing methodologies and QA principles.
+
+Created software requirements, acceptance criteria, and test cases while applying testing methodologies and QA principles.
+
+**Tools & Concepts:** Jira, Squash, Test Cases, Requirements, Acceptance Criteria, Functional Testing
 
 ### C# Programming Projects
-Developed object-oriented applications using classes, encapsulation, inheritance, and other programming principles.
+
+Developed object-oriented applications using classes, encapsulation, inheritance, and other object-oriented programming principles.
+
+**Technologies:** C#, Object-Oriented Programming
+
+## 📊 GitHub Statistics
+
+## 📊 GitHub Activity
+
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Kiven1300&show_icons=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiven1300&layout=compact)
 
 ## 🎯 Current Goals
 
-My goal is to continue growing into a professional role in web or software development.
+My goal is to continue growing into a professional role in web and software development.
 
-I'm especially interested in opportunities where I can combine development, troubleshooting, software testing, and technical problem-solving.
+I'm especially interested in opportunities where I can combine development, software testing, troubleshooting, and problem-solving skills while continuing to learn from experienced engineering teams.
 
 ## 🤝 Let's Connect
 
