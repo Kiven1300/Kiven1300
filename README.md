@@ -95,8 +95,6 @@ Developed object-oriented applications using classes, encapsulation, inheritance
 
 **Technologies:** C#, Object-Oriented Programming
 
-## 📊 GitHub Statistics
-
 ## 📊 GitHub Activity
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Kiven1300&show_icons=true)
